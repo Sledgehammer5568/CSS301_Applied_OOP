@@ -31,6 +31,8 @@
  * displays one line of this Burma Shave
  * slogan in turn.
  */
+
+// this is the start of my code
 class BurmaShave {
     public static void main(String[] args) {
         // Write your code here

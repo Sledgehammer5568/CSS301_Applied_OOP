@@ -2,7 +2,7 @@
  * Coded by Emanuel Ramos
  * 11/2/2023 at 4 AM
  *
- * Programing Exercise 1-12
+ * Programming Exercise 1-12
  *
  * // this is the original code provided
  * class BurmaShave {
@@ -16,7 +16,7 @@
  * appeared next to highways all across the United States.
  * There were always four or five signs in a row containing
  * pieces of a rhyme, followed by a final sign that read
- * "Burma Shave." For example, one set of sign that have
+ * "Burma Shave." For example, one set of signs that have
  * been preserved by the Smithsonian Institution reads as
  * follows:
  * Shaving brushes
